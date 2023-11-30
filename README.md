@@ -34,39 +34,39 @@ SSAFY 교육생들을 위한 IT 물품 중고거래 서비스를 기획하였습
 - Matter.Js를 제외한 다른 라이브러리 사용없이 순수 자바스크립트로만 페이지를 구성했습니다. 
 
 ## 2. 중고 거래
-<img src="/exec/project-scenario/tradeMain.png" width="800"/>   
+<img src="/exec/tradeMain.png" width="800"/>   
 
 - 삼성 SW 아카데미가 위치한 서울, 대전, 구미, 광주, 부울경 5개 지역 별로 중고물품을 확인합니다.
 - 방금 등록된 물품과 실시간 인기 물품을 확인할 수 있습니다.
 
-<img src="/exec/project-scenario/tradeDetail.gif" width="800"/>   
+<img src="/exec/tradeDetail.gif" width="800"/>   
 
 - 하나의 물품을 상세조회했을 때 사진, 판매자, 상세 설명을 볼 수 있습니다.
 - "찜하기" 버튼을 통해 찜할 수 있습니다.
 - "구매 채팅하기" 버튼을 통해 판매자와 대화를 시작할 수 있습니다.
 
-<img src="/exec/project-scenario/tradeChatting.gif" width="800"/>   
+<img src="/exec/tradeChatting.gif" width="800"/>   
 
 - 사용자 본인의 채팅 목록을 확인할 수 있으며, 채팅방마다 대화를 이어갈 수 있습니다.
    
 ## 3. 경매
-<img src="/exec/project-scenario/auctionMain.gif" width="800"/>   
+<img src="/exec/auctionMain.gif" width="800"/>   
 
 - 모니터, 키보드, 마우스 등 카테고리별로 물품들을 볼 수 있습니다.
 
-<img src="/exec/project-scenario/auctionBidding.gif" width="800"/>   
+<img src="/exec/auctionBidding.gif" width="800"/>   
 
 - 상품을 클릭하면 상품의 상세정보, 시작가, 정가, 현재 최고가를 볼 수 있습니다.
 - 입찰을 누르면 입찰 리스트에 기록됩니다.
 - 입찰 시간이 마감되고 최고가로 입찰 한 사람과 채팅으로 이어지는 버튼이 생성됩니다.
 
-<img src="/exec/project-scenario/auctionAlarm.png" width="800"/>   
+<img src="/exec/auctionAlarm.png" width="800"/>   
 
 - 내가 입찰한 금액보다 높은 금액으로 입찰이 진행될 경우, 상회입찰 알림이 보여집니다.
 
 
 ## 4. 생명주기 커뮤니티 서비스
-<img src="/exec/project-scenario/community.gif" width="800"/>
+<img src="/exec/community.gif" width="800"/>
    
 - 각각의 커뮤니티에는 기본적으로 7일의 생명주기가 주어집니다.
 - 인기가 가장 많은 게시판의 원 모양이 가장 큽니다.
